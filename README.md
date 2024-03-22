@@ -52,8 +52,6 @@ First, you need to download the source code of Video Download Basic from Github.
 
 Download the latest version of the VideoDownloadBasic.zip file that corresponds to your operating system (VideoDownloadBasic_Windows.zip-v1.1, VideoDownloadBasic_Linux-v1.1.zip). Proceed to download and extract it.
 
-![image](https://user-images.githubusercontent.com/88141204/236811619-b3742151-06f3-40d4-9554-656a4eb95d93.png)
-
 ### **Step 2: Install Python (if you don't have Python already installed)**
 
 Video Download Basic is written in Python, so you need to install Python on your computer if you don't already have it. You can download the latest version of Python from the official Python website at [https://www.python.org/downloads/](https://www.python.org/downloads/).
