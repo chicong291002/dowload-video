@@ -19,7 +19,7 @@ Download the installation file vdbinstaller_Linux-v1.1.zip.
 
 Reference image:
 
-![image](![image](https://github.com/chicong291002/dowload-video/assets/87140308/134c4a33-6d48-43a5-8c26-768b07934650))
+![image](![image](https://github.com/chicong291002/dowload-video/assets/87140308/de785b05-384f-4766-a956-ca5e5d373fbc.png)))
 
 
 ### **Step 2: Install Video Download Basic**
