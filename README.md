@@ -17,10 +17,6 @@ Download the installation file vdbsetup_Windows-v1.1.zip.
 
 Download the installation file vdbinstaller_Linux-v1.1.zip.
 
-Reference image:
-
-![image](![image](https://github.com/chicong291002/dowload-video/assets/87140308/de785b05-384f-4766-a956-ca5e5d373fbc.png)))
-
 
 ### **Step 2: Install Video Download Basic**
 
