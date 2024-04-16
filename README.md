@@ -2,48 +2,6 @@
 
 > Video Download Basic is a simple application that helps you download videos from YouTube and convert video formats from mp4 to other formats. This application is written in Python language and uses the PyTube library to perform video downloads.
 > 
-
-## **Guide to installing Video Download Basic from the setup file**
-
-### Step 1: Download the setup file from Github
-
-Access the project's Github page at: [https://github.com/chicong291002/dowload-video/releases](https://github.com/chicong291002/dowload-video/releases)
-
-- Windows
-
-Download the installation file vdbsetup_Windows-v1.1.zip.
-
-- Linux
-
-Download the installation file vdbinstaller_Linux-v1.1.zip.
-
-
-### **Step 2: Install Video Download Basic**
-
-- Windows
-
-Run the vdbsetup.exe file after extracting it and follow the steps in the installation wizard. After the installation is complete, Video Download Basic will be installed on your computer.
-
-- Linux
-
-Unzip and run the vdb file in the vdb directory to use.
-
-Note: ffmpeg should be installed before use
-
-ffmpeg can be installed with the following command
-
-```powershell
-sudo apt-get install ffmpeg
-```
-
-After running the command, a VideoDownloadBasic folder will be created in the same directory as the vdb_installer.run file.
-
-### **Step 3: Use Video Download Basic**
-
-- Windows
-
-After the installation is complete, you can start Video Download Basic by searching for it in the Start menu.
-
 ## **Guide to installing Video Download Basic from the source code**
 
 ### **Step 1: Download the source code from Github**
