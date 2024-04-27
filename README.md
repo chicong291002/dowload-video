@@ -1,18 +1,18 @@
 # Introduce the topic
-``` Downloading YouTube videos is a useful skill that allows you to store your favorite or necessary videos for offline viewing.
-``` This article will introduce popular methods and tools to download YouTube videos effectively.
-``` In an increasingly digital world, accessing and sharing online video content from platforms like YouTube has become an indispensable part of our daily lives.
-``` However, sometimes we want to store videos from YouTube to our devices or convert them to other formats to suit different needs.
+Downloading YouTube videos is a useful skill that allows you to store your favorite or necessary videos for offline viewing.
+This article will introduce popular methods and tools to download YouTube videos effectively.
+In an increasingly digital world, accessing and sharing online video content from platforms like YouTube has become an indispensable part of our daily lives.
+However, sometimes we want to store videos from YouTube to our devices or convert them to other formats to suit different needs.
 
 # Download method
-``` Use online tools: There are many websites and applications that allow you to download YouTube videos for free. Some popular options include: SaveFrom.net, Y2Mate, JDownloader, IDM,...
-``` Use browser extensions: Some browser extensions like Easy YouTube Video Downloader, SaveFrom.net Helper allow you to download YouTube videos directly from the website.
-``` Using download software: Some download software such as Free Download Manager (FDM), Advanced Download Manager (ADM) support downloading YouTube videos with high speed and many useful features.
+Use online tools: There are many websites and applications that allow you to download YouTube videos for free. Some popular options include: SaveFrom.net, Y2Mate, JDownloader, IDM,...
+Use browser extensions: Some browser extensions like Easy YouTube Video Downloader, SaveFrom.net Helper allow you to download YouTube videos directly from the website.
+Using download software: Some download software such as Free Download Manager (FDM), Advanced Download Manager (ADM) support downloading YouTube videos with high speed and many useful features.
 # Benefit
-``` Watch videos offline
-``` Store favorite videos
-``` Use videos for learning and research purposes
-``` Share videos with others
+Watch videos offline
+Store favorite videos
+Use videos for learning and research purposes
+Share videos with others
 
 # **Guide to installing Video Download Basic**
 
