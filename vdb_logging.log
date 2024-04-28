@@ -2,3 +2,397 @@
 2024-03-22 23:16:53,089 - INFO - Input file: C:/Users/ADMIN/Desktop/video/GIỌNG HÁT KHIẾN CÁC CHỊ GÁI NHÌN KHÔNG RỜI MẮT… HỌ YÊU AI MẤT RỒI DOÃN HIẾU ' PHA PHẠM COVER/video_1080p_GIỌNG HÁT KHIẾN CÁC CHỊ GÁI NHÌN KHÔNG RỜI MẮT… HỌ YÊU AI MẤT RỒI DOÃN HIẾU  PHA PHẠM COVER.webm
 2024-03-22 23:16:53,090 - INFO - Output file: C:/Users/ADMIN/Desktop/video\123\video_1080p_GIỌNG HÁT KHIẾN CÁC CHỊ GÁI NHÌN KHÔNG RỜI MẮT… HỌ YÊU AI MẤT RỒI DOÃN HIẾU  PHA PHẠM COVER.avi
 2024-03-22 23:18:11,487 - INFO - C:/Users/ADMIN/Desktop/video/GIỌNG HÁT KHIẾN CÁC CHỊ GÁI NHÌN KHÔNG RỜI MẮT… HỌ YÊU AI MẤT RỒI DOÃN HIẾU ' PHA PHẠM COVER/video_1080p_GIỌNG HÁT KHIẾN CÁC CHỊ GÁI NHÌN KHÔNG RỜI MẮT… HỌ YÊU AI MẤT RỒI DOÃN HIẾU  PHA PHẠM COVER.webm successfully
+2024-04-04 10:25:14,815 - INFO - Package: C:/Users/ADMIN/Desktop\MrBeast
+2024-04-04 10:25:15,295 - ERROR - Error downloading description
+2024-04-04 10:25:15,295 - ERROR - Error downloading subtitles
+2024-04-04 10:25:15,296 - INFO - Downloading subtitles successful
+2024-04-04 10:25:15,902 - INFO - Downloading thumbnail successful
+2024-04-04 10:25:18,115 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\MrBeast\Spot The Hidden People For $10,000\tmpbkvfo24s
+2024-04-04 10:25:18,232 - INFO - Downloading audio successful
+2024-04-04 10:25:19,012 - INFO - downloading (215134 total bytes) file to buffer
+2024-04-04 10:25:19,113 - INFO - audio_tmp C:\Users\ADMIN\Desktop\MrBeast\Spot The Hidden People For $10,000\tmpbkvfo24s\tmpzs5yu2hc.mp3
+2024-04-04 10:25:19,115 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-04 10:25:25,981 - INFO - Video path 1: C:\Users\ADMIN\Desktop\MrBeast\Spot The Hidden People For $10,000\tmpbkvfo24s\video_1080p_Spot The Hidden People For 10000.webm
+2024-04-04 10:25:25,990 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\MrBeast\Spot The Hidden People For $10,000\video_1080p_Spot The Hidden People For 10000.webm
+2024-04-04 10:25:25,995 - INFO - Downloading video successful
+2024-04-04 10:25:25,997 - INFO - Future <Future at 0x16d8bad0470 state=finished returned NoneType> completed with result: None
+2024-04-04 10:26:22,462 - INFO - Package: C:/Users/ADMIN/Desktop\Tòng Phu
+2024-04-04 10:26:22,862 - ERROR - Error downloading description
+2024-04-04 10:26:22,862 - ERROR - Error downloading subtitles
+2024-04-04 10:26:22,862 - INFO - Downloading subtitles successful
+2024-04-04 10:26:23,411 - INFO - Downloading thumbnail successful
+2024-04-04 10:26:24,267 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmp1s86byp5
+2024-04-04 10:26:24,556 - INFO - Downloading audio successful
+2024-04-04 10:26:26,702 - INFO - downloading (1851435 total bytes) file to buffer
+2024-04-04 10:26:26,883 - INFO - audio_tmp C:\Users\ADMIN\Desktop\Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmp1s86byp5\tmpvvhgygnz.mp3
+2024-04-04 10:26:26,885 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-04 10:26:32,142 - INFO - Video path 1: C:\Users\ADMIN\Desktop\Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmp1s86byp5\video_720p_Tòng Phu  -  KEYO    Phạm Cường Cover.webm
+2024-04-04 10:26:32,181 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\video_720p_Tòng Phu  -  KEYO    Phạm Cường Cover.webm
+2024-04-04 10:26:32,192 - INFO - Downloading video successful
+2024-04-04 10:26:32,193 - INFO - Future <Future at 0x16d8bb068d0 state=finished returned NoneType> completed with result: None
+2024-04-04 10:43:56,393 - INFO - Package: C:/Users/ADMIN/Desktop\Sơn Tùng và  Tòng Phu
+2024-04-04 10:43:56,951 - ERROR - Error downloading description
+2024-04-04 10:43:57,422 - ERROR - Error downloading description
+2024-04-04 10:43:57,425 - ERROR - Error downloading subtitles
+2024-04-04 10:43:57,426 - INFO - Downloading subtitles successful
+2024-04-04 10:43:57,801 - INFO - Downloading subtitles successful
+2024-04-04 10:43:57,862 - INFO - Downloading thumbnail successful
+2024-04-04 10:43:58,245 - INFO - Downloading thumbnail successful
+2024-04-04 10:43:59,436 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\CHÚNG TA CỦA TƯƠNG LAI\tmpvnirvs3a
+2024-04-04 10:44:00,607 - INFO - Downloading audio successful
+2024-04-04 10:44:01,253 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmpyjw3afeh
+2024-04-04 10:44:01,311 - INFO - Downloading audio successful
+2024-04-04 10:44:05,082 - INFO - downloading (1851435 total bytes) file to buffer
+2024-04-04 10:44:05,879 - INFO - audio_tmp C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmpyjw3afeh\tmpdh0ci24s.mp3
+2024-04-04 10:44:05,882 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-04 10:44:16,929 - INFO - Video path 1: C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\tmpyjw3afeh\video_720p_Tòng Phu  -  KEYO    Phạm Cường Cover.webm
+2024-04-04 10:44:16,977 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\Sơn Tùng và  Tòng Phu\Tòng Phu  -  KEYO  '  Phạm Cường Cover\video_720p_Tòng Phu  -  KEYO    Phạm Cường Cover.webm
+2024-04-04 10:44:16,993 - INFO - Downloading video successful
+2024-04-04 10:44:16,995 - INFO - Future <Future at 0x25e535dd4c0 state=finished returned NoneType> completed with result: None
+2024-04-04 10:44:22,891 - INFO - downloading (1687321 total bytes) file to buffer
+2024-04-04 10:44:23,033 - INFO - audio_tmp C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\CHÚNG TA CỦA TƯƠNG LAI\tmpvnirvs3a\tmpa6e26edv.mp3
+2024-04-04 10:44:23,037 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-04 10:44:32,867 - INFO - Video path 1: C:\Users\ADMIN\Desktop\Sơn Tùng và  Tòng Phu\CHÚNG TA CỦA TƯƠNG LAI\tmpvnirvs3a\video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:44:35,269 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\Sơn Tùng và  Tòng Phu\CHÚNG TA CỦA TƯƠNG LAI\video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:44:35,376 - INFO - Downloading video successful
+2024-04-04 10:44:35,378 - INFO - Future <Future at 0x25e535bf470 state=finished returned NoneType> completed with result: None
+2024-04-04 10:45:46,979 - INFO - Folder: C:/Users/ADMIN/Desktop\Video Sơn Tùng 
+2024-04-04 10:45:47,218 - INFO - Input file: C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:45:47,218 - INFO - Output file: C:/Users/ADMIN/Desktop\Video Sơn Tùng \video_2160p_CHÚNG TA CỦA TƯƠNG LAI.avi
+2024-04-04 10:45:50,583 - INFO - C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm successfully
+2024-04-04 10:46:15,088 - INFO - Folder: C:/Users/ADMIN/Desktop/Video Sơn Tùng\Video Sơn Tùng
+2024-04-04 10:46:15,249 - INFO - Input file: C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webmC:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:46:15,249 - INFO - Output file: C:/Users/ADMIN/Desktop/Video Sơn Tùng\Video Sơn Tùng\video_2160p_CHÚNG TA CỦA TƯƠNG LAI.avi
+2024-04-04 10:46:16,846 - INFO - C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webmC:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm successfully
+2024-04-04 10:48:04,109 - INFO - Folder: C:/Users/ADMIN/Desktop/Video Sơn Tùng\Convert Video
+2024-04-04 10:48:04,260 - INFO - Input file: C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:48:04,260 - INFO - Output file: C:/Users/ADMIN/Desktop/Video Sơn Tùng\Convert Video\audio_CHÚNG TA CỦA TƯƠNG LAI.mkv
+2024-04-04 10:48:19,148 - INFO - C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webm successfully
+2024-04-04 10:48:39,228 - INFO - Folder: C:/Users/ADMIN/Desktop/Video Sơn Tùng/Video Sơn Tùng\Convert Video
+2024-04-04 10:48:39,488 - INFO - Input file: C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-04 10:48:39,488 - INFO - Output file: C:/Users/ADMIN/Desktop/Video Sơn Tùng/Video Sơn Tùng\Convert Video\audio_CHÚNG TA CỦA TƯƠNG LAI.mkv
+2024-04-04 10:48:55,459 - INFO - C:/Users/ADMIN/Desktop/Sơn Tùng và  Tòng Phu/CHÚNG TA CỦA TƯƠNG LAI/audio_CHÚNG TA CỦA TƯƠNG LAI.webm successfully
+2024-04-13 16:00:30,473 - INFO - Package: C:/Users/ADMIN/Desktop\Video
+2024-04-13 16:00:46,357 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\Video\CHÚNG TA CỦA TƯƠNG LAI\tmpzp1v_90m
+2024-04-13 16:00:49,061 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\Video\Nơi Này Có Anh\tmpl3l156d8
+2024-04-13 16:02:42,608 - INFO - downloading (1698061 total bytes) file to buffer
+2024-04-13 16:02:43,403 - INFO - audio_tmp C:\Users\ADMIN\Desktop\Video\Nơi Này Có Anh\tmpl3l156d8\tmpectuqbbo.mp3
+2024-04-13 16:02:43,408 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-13 16:02:53,506 - INFO - Video path 1: C:\Users\ADMIN\Desktop\Video\Nơi Này Có Anh\tmpl3l156d8\video_2160p_Nơi Này Có Anh.webm
+2024-04-13 16:02:55,172 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\Video\Nơi Này Có Anh\video_2160p_Nơi Này Có Anh.webm
+2024-04-13 16:02:56,211 - INFO - Downloading video successful
+2024-04-13 16:02:56,212 - INFO - Future <Future at 0x1ee6a23eff0 state=finished returned NoneType> completed with result: None
+2024-04-13 16:03:17,425 - INFO - downloading (1687321 total bytes) file to buffer
+2024-04-13 16:03:17,979 - INFO - audio_tmp C:\Users\ADMIN\Desktop\Video\CHÚNG TA CỦA TƯƠNG LAI\tmpzp1v_90m\tmpus1eeehu.mp3
+2024-04-13 16:03:17,984 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-13 16:03:26,679 - INFO - Video path 1: C:\Users\ADMIN\Desktop\Video\CHÚNG TA CỦA TƯƠNG LAI\tmpzp1v_90m\video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-13 16:03:27,086 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\Video\CHÚNG TA CỦA TƯƠNG LAI\video_2160p_CHÚNG TA CỦA TƯƠNG LAI.webm
+2024-04-13 16:03:27,194 - INFO - Downloading video successful
+2024-04-13 16:03:27,196 - INFO - Future <Future at 0x1ee6a2269c0 state=finished returned NoneType> completed with result: None
+2024-04-13 16:03:27,236 - ERROR - Error: can't delete Tcl command
+2024-04-13 16:08:23,750 - INFO - Package: C:/Users/ADMIN/Desktop\VIDEO
+2024-04-13 16:08:26,449 - INFO - Downloading thumbnail successful
+2024-04-13 16:08:40,168 - INFO - tmp_dir: C:\Users\ADMIN\Desktop\VIDEO\Nơi Này Có Anh\tmp7g4on3eg
+2024-04-13 16:08:45,175 - INFO - Downloading audio successful
+2024-04-13 16:09:47,384 - INFO - downloading (1698061 total bytes) file to buffer
+2024-04-13 16:09:48,100 - INFO - audio_tmp C:\Users\ADMIN\Desktop\VIDEO\Nơi Này Có Anh\tmp7g4on3eg\tmpomtvifua.mp3
+2024-04-13 16:09:48,108 - INFO - FFMPEG path: c:\Users\ADMIN\Desktop\Video-Download-Basic-Install\ffmpeg\bin\ffmpeg.exe
+2024-04-13 16:09:58,611 - INFO - Video path 1: C:\Users\ADMIN\Desktop\VIDEO\Nơi Này Có Anh\tmp7g4on3eg\video_2160p_Nơi Này Có Anh.webm
+2024-04-13 16:09:58,909 - INFO - Video_path 2: C:/Users/ADMIN/Desktop\VIDEO\Nơi Này Có Anh\video_2160p_Nơi Này Có Anh.webm
+2024-04-13 16:09:58,995 - INFO - Downloading video successful
+2024-04-13 16:09:59,000 - INFO - Future <Future at 0x1b7fdff0980 state=finished returned NoneType> completed with result: None
+2024-04-13 16:11:20,157 - INFO - Folder: C:/Users/ADMIN/Desktop/VIDEO\Video Son Tung
+2024-04-13 16:11:20,424 - INFO - Input file: C:/Users/ADMIN/Desktop/VIDEO/Nơi Này Có Anh/video_2160p_Nơi Này Có Anh.webm
+2024-04-13 16:11:20,425 - INFO - Output file: C:/Users/ADMIN/Desktop/VIDEO\Video Son Tung\video_2160p_Nơi Này Có Anh.avi
+2024-04-13 16:14:26,020 - INFO - C:/Users/ADMIN/Desktop/VIDEO/Nơi Này Có Anh/video_2160p_Nơi Này Có Anh.webm successfully
+2024-04-15 02:22:01,743 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:22:05,365 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp8zuvszd2
+2024-04-15 02:22:16,480 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:22:17,146 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp8zuvszd2/tmpt_m_4rnp.mp3
+2024-04-15 02:22:17,148 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:22:17,169 - ERROR - Error downloading video [Errno 13] Permission denied: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:22:17,170 - INFO - Future <Future at 0x7d029ea71990 state=finished returned NoneType> completed with result: None
+2024-04-15 02:23:58,704 - INFO - Package: /home/ngoccanh/Downloads/Video1
+2024-04-15 02:24:00,039 - INFO - Downloading thumbnail successful
+2024-04-15 02:24:01,371 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video1/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpg0krbvkx
+2024-04-15 02:24:04,364 - INFO - Downloading audio successful
+2024-04-15 02:24:13,671 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:24:14,299 - INFO - audio_tmp /home/ngoccanh/Downloads/Video1/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpg0krbvkx/tmp48jqf3sh.mp3
+2024-04-15 02:24:14,302 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:24:14,327 - ERROR - Error downloading video [Errno 13] Permission denied: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:24:14,333 - INFO - Future <Future at 0x7d029ea71090 state=finished returned NoneType> completed with result: None
+2024-04-15 02:36:39,631 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:36:40,727 - INFO - Downloading thumbnail successful
+2024-04-15 02:36:44,437 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmphu0kuaou
+2024-04-15 02:36:48,407 - INFO - Downloading audio successful
+2024-04-15 02:37:01,042 - ERROR - Error downloading video [Errno 2] No such file or directory: '/home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmphu0kuaou/tmparhu1f5p.mp3'
+2024-04-15 02:37:01,045 - INFO - Future <Future at 0x7c2cb6ca58d0 state=finished returned NoneType> completed with result: None
+2024-04-15 02:37:01,049 - ERROR - Error: invalid command name ".!processingdialog.!ctkframe.!canvas.!ctkscrollableframe.!progressbar.!ctklabel.!label"
+2024-04-15 02:37:15,095 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:37:16,681 - INFO - Downloading thumbnail successful
+2024-04-15 02:37:19,909 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp88ub50uo
+2024-04-15 02:37:25,127 - INFO - Downloading audio successful
+2024-04-15 02:37:41,615 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:37:42,538 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp88ub50uo/tmpk7bi0y0j.mp3
+2024-04-15 02:37:42,539 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:37:42,551 - ERROR - Error downloading video [Errno 13] Permission denied: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:37:42,557 - INFO - Future <Future at 0x7c2cb6ca6d10 state=finished returned NoneType> completed with result: None
+2024-04-15 02:41:54,793 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:41:57,146 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpfr2seimx
+2024-04-15 02:42:19,531 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:42:20,179 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpfr2seimx/tmp2p_frapj.mp3
+2024-04-15 02:42:20,182 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:42:20,203 - ERROR - Error downloading video [Errno 13] Permission denied: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:42:20,205 - INFO - Future <Future at 0x7c2cb6ca4a30 state=finished returned NoneType> completed with result: None
+2024-04-15 02:45:34,479 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:45:37,638 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp5ivs4bfq
+2024-04-15 02:46:10,687 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:46:11,969 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp5ivs4bfq/tmpsoo5e0gb.mp3
+2024-04-15 02:46:11,971 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:46:12,000 - ERROR - Error downloading video [Errno 8] Exec format error: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:46:12,004 - INFO - Future <Future at 0x7c2cb6d2c790 state=finished returned NoneType> completed with result: None
+2024-04-15 02:50:57,734 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 02:51:01,440 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpcm67ca23
+2024-04-15 02:51:12,588 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 02:51:13,216 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpcm67ca23/tmpdgn25zb4.mp3
+2024-04-15 02:51:13,217 - INFO - FFMPEG path: /home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe
+2024-04-15 02:51:13,244 - ERROR - Error downloading video [Errno 8] Exec format error: '/home/ngoccanh/Documents/Video-Download/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 02:51:13,245 - INFO - Future <Future at 0x7ad54cef57e0 state=finished returned NoneType> completed with result: None
+2024-04-15 03:02:42,742 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 03:02:46,855 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpqqf_nod1
+2024-04-15 03:03:00,823 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:03:01,594 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpqqf_nod1/tmpq9mk2wxs.mp3
+2024-04-15 03:03:01,597 - INFO - FFMPEG path: usr/bin/ffmpeg/bin/ffmpeg.exe
+2024-04-15 03:03:01,627 - ERROR - Error downloading video [Errno 2] No such file or directory: 'usr/bin/ffmpeg/bin/ffmpeg.exe'
+2024-04-15 03:03:01,633 - INFO - Future <Future at 0x72e1cdb35870 state=finished returned NoneType> completed with result: None
+2024-04-15 03:04:07,630 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 03:04:11,540 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmptmtaar5e
+2024-04-15 03:04:30,757 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:04:32,231 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmptmtaar5e/tmplm08rcht.mp3
+2024-04-15 03:04:32,234 - INFO - FFMPEG path: usr/bin/ffmpeg
+2024-04-15 03:04:32,265 - ERROR - Error downloading video [Errno 2] No such file or directory: 'usr/bin/ffmpeg'
+2024-04-15 03:04:32,266 - INFO - Future <Future at 0x7d96c3521810 state=finished returned NoneType> completed with result: None
+2024-04-15 03:10:11,966 - INFO - Package: /home/ngoccanh/Downloads/Video1
+2024-04-15 03:10:17,688 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video1/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp_tfb8bzr
+2024-04-15 03:10:29,453 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:10:29,959 - INFO - audio_tmp /home/ngoccanh/Downloads/Video1/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp_tfb8bzr/tmpj_dab4wu.mp3
+2024-04-15 03:10:29,962 - INFO - FFMPEG path: usr/bin/ffmpeg
+2024-04-15 03:10:29,991 - ERROR - Error downloading video [Errno 2] No such file or directory: 'usr/bin/ffmpeg'
+2024-04-15 03:10:29,993 - INFO - Future <Future at 0x7864da0b1810 state=finished returned NoneType> completed with result: None
+2024-04-15 03:11:39,887 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 03:11:43,818 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpb4m35hai
+2024-04-15 03:12:01,584 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:12:02,309 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpb4m35hai/tmpvf_b5m_t.mp3
+2024-04-15 03:12:02,310 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 03:12:08,347 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpb4m35hai/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:12:08,448 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:12:08,476 - INFO - Downloading video successful
+2024-04-15 03:12:08,479 - INFO - Future <Future at 0x7b31017a9840 state=finished returned NoneType> completed with result: None
+2024-04-15 03:17:38,550 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 03:17:39,794 - INFO - Downloading thumbnail successful
+2024-04-15 03:17:40,399 - INFO - Downloading thumbnail successful
+2024-04-15 03:17:47,175 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpy80ibu33
+2024-04-15 03:17:48,300 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/TETVOVEN/tmpwvl9i4xm
+2024-04-15 03:17:53,315 - INFO - Downloading audio successful
+2024-04-15 03:17:56,905 - INFO - Downloading audio successful
+2024-04-15 03:18:14,343 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:18:15,592 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpy80ibu33/tmp38bs7hog.mp3
+2024-04-15 03:18:15,595 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 03:18:24,606 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpy80ibu33/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:18:24,699 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:18:24,728 - INFO - Downloading video successful
+2024-04-15 03:18:24,731 - INFO - Future <Future at 0x7c7e0c335450 state=finished returned NoneType> completed with result: None
+2024-04-15 03:21:21,724 - INFO - downloading (1381490 total bytes) file to buffer
+2024-04-15 03:21:23,166 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/TETVOVEN/tmpwvl9i4xm/tmptiugyytw.mp3
+2024-04-15 03:21:23,170 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 03:21:23,873 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/TETVOVEN/tmpwvl9i4xm/video_2160p_TETVOVEN.webm
+2024-04-15 03:21:23,878 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/TETVOVEN/video_2160p_TETVOVEN.webm
+2024-04-15 03:21:23,882 - INFO - Downloading video successful
+2024-04-15 03:21:23,883 - INFO - Future <Future at 0x7c7e0c398550 state=finished returned NoneType> completed with result: None
+2024-04-15 03:23:15,646 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 03:23:20,242 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp1wavjjss
+2024-04-15 03:23:21,894 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/TETVOVEN/tmpz_lvam80
+2024-04-15 03:23:22,745 - INFO - Downloading thumbnail successful
+2024-04-15 03:23:22,956 - INFO - Downloading thumbnail successful
+2024-04-15 03:23:34,863 - INFO - Downloading audio successful
+2024-04-15 03:23:36,067 - INFO - Downloading audio successful
+2024-04-15 03:23:51,492 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 03:23:52,466 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp1wavjjss/tmppg8g85op.mp3
+2024-04-15 03:23:52,468 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 03:23:58,134 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmp1wavjjss/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:23:58,217 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:23:58,252 - INFO - Downloading video successful
+2024-04-15 03:23:58,256 - INFO - Future <Future at 0x7c7e0c3354e0 state=finished returned NoneType> completed with result: None
+2024-04-15 03:26:34,837 - INFO - downloading (1381490 total bytes) file to buffer
+2024-04-15 03:26:35,537 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/TETVOVEN/tmpz_lvam80/tmpinvb6lfw.mp3
+2024-04-15 03:26:35,538 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 03:26:46,626 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/TETVOVEN/tmpz_lvam80/video_2160p_TETVOVEN.webm
+2024-04-15 03:26:47,632 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/TETVOVEN/video_2160p_TETVOVEN.webm
+2024-04-15 03:26:47,999 - INFO - Downloading video successful
+2024-04-15 03:26:48,004 - INFO - Future <Future at 0x7c7e0c3997e0 state=finished returned NoneType> completed with result: None
+2024-04-15 03:38:04,703 - INFO - Folder: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv video
+2024-04-15 03:38:05,270 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:38:05,272 - INFO - Output file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv video/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mkv
+2024-04-15 03:43:50,410 - INFO - Folder: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv
+2024-04-15 03:43:50,734 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:43:50,739 - INFO - Output file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mkv
+2024-04-15 03:48:05,367 - INFO - Folder: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv
+2024-04-15 03:48:05,638 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:48:05,640 - INFO - Output file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/mkv/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mkv
+2024-04-15 03:51:01,075 - INFO - /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm successfully
+2024-04-15 03:52:24,294 - INFO - Folder: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/avi
+2024-04-15 03:52:24,597 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 03:52:24,598 - INFO - Output file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/avi/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).avi
+2024-04-15 03:56:34,793 - INFO - /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm successfully
+2024-04-15 04:20:00,366 - INFO - Package: /home/ngoccanh/Downloads/Video
+2024-04-15 04:20:01,348 - INFO - Downloading thumbnail successful
+2024-04-15 04:20:01,613 - INFO - Downloading thumbnail successful
+2024-04-15 04:20:08,082 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/TẠI VÌ SAO (RMX) ' RPT MCK ft. Limitlxss ' OFFICIAL LYRIC VIDEO/tmp0wvvcani
+2024-04-15 04:20:08,132 - INFO - tmp_dir: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmph1czqu1m
+2024-04-15 04:20:13,767 - INFO - Downloading audio successful
+2024-04-15 04:20:15,897 - INFO - Downloading audio successful
+2024-04-15 04:20:17,562 - INFO - downloading (988824 total bytes) file to buffer
+2024-04-15 04:20:18,261 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/TẠI VÌ SAO (RMX) ' RPT MCK ft. Limitlxss ' OFFICIAL LYRIC VIDEO/tmp0wvvcani/tmpitcmj3mi.mp3
+2024-04-15 04:20:18,263 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 04:20:24,499 - INFO - downloading (989904 total bytes) file to buffer
+2024-04-15 04:20:25,015 - INFO - audio_tmp /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmph1czqu1m/tmpn2t0tp8f.mp3
+2024-04-15 04:20:25,025 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-15 04:20:31,090 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/TẠI VÌ SAO (RMX) ' RPT MCK ft. Limitlxss ' OFFICIAL LYRIC VIDEO/tmp0wvvcani/video_1080p_TẠI VÌ SAO (RMX)  RPT MCK ft Limitlxss  OFFICIAL LYRIC VIDEO.webm
+2024-04-15 04:20:31,158 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/TẠI VÌ SAO (RMX) ' RPT MCK ft. Limitlxss ' OFFICIAL LYRIC VIDEO/video_1080p_TẠI VÌ SAO (RMX)  RPT MCK ft Limitlxss  OFFICIAL LYRIC VIDEO.webm
+2024-04-15 04:20:31,185 - INFO - Downloading video successful
+2024-04-15 04:20:31,187 - INFO - Future <Future at 0x78bf3fec05b0 state=finished returned NoneType> completed with result: None
+2024-04-15 04:20:35,238 - INFO - Video path 1: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmph1czqu1m/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 04:20:35,319 - INFO - Video_path 2: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 04:20:35,344 - INFO - Downloading video successful
+2024-04-15 04:20:35,349 - INFO - Future <Future at 0x78bf3fe65900 state=finished returned NoneType> completed with result: None
+2024-04-15 04:24:33,575 - INFO - Folder: /home/ngoccanh/Downloads/mp4
+2024-04-15 04:24:33,855 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 04:24:33,858 - INFO - Output file: /home/ngoccanh/Downloads/mp4/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mp4
+2024-04-15 04:28:17,222 - INFO - Folder: /home/ngoccanh/Downloads/Video/mkv video
+2024-04-15 04:28:17,418 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-15 04:28:17,418 - INFO - Output file: /home/ngoccanh/Downloads/Video/mkv video/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mkv
+2024-04-15 04:31:14,694 - INFO - /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm successfully
+2024-04-15 16:12:17,449 - INFO - Package: /home/ngoccanh/Downloads/test
+2024-04-15 16:12:24,857 - ERROR - Error downloading video [Errno 2] No such file or directory: '/home/ngoccanh/Downloads/test/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/tmpzemudiue'
+2024-04-15 16:12:24,859 - INFO - Future <Future at 0x781f008516c0 state=finished returned NoneType> completed with result: None
+2024-04-15 16:12:24,860 - ERROR - Error: invalid command name ".!processingdialog.!ctkframe.!canvas.!ctkscrollableframe.!progressbar.!ctklabel.!label"
+2024-04-16 17:47:15,331 - INFO - Folder: /home/ngoccanh/Downloads/mp4
+2024-04-16 17:47:15,692 - INFO - Input file: /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm
+2024-04-16 17:47:15,692 - INFO - Output file: /home/ngoccanh/Downloads/mp4/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).mp4
+2024-04-16 17:50:22,747 - INFO - /home/ngoccanh/Downloads/Video/Simp Gái 808 (Maiki Remix) (live from GENfest 23)/video_1080p_Simp Gái 808 (Maiki Remix) (live from GENfest 23).webm successfully
+2024-04-27 23:15:11,275 - INFO - Package: /home/ngoccanh
+2024-04-27 23:15:12,760 - INFO - Downloading thumbnail successful
+2024-04-27 23:15:19,182 - INFO - tmp_dir: /home/ngoccanh/Z1000 2700km/tmp4vapwvoh
+2024-04-27 23:15:22,177 - INFO - Downloading audio successful
+2024-04-27 23:15:29,646 - INFO - downloading (367966 total bytes) file to buffer
+2024-04-27 23:15:30,293 - INFO - audio_tmp /home/ngoccanh/Z1000 2700km/tmp4vapwvoh/tmpkft_b6wu.mp3
+2024-04-27 23:15:30,294 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-27 23:15:32,946 - INFO - Video path 1: /home/ngoccanh/Z1000 2700km/tmp4vapwvoh/video_720p_Z1000 2700km.webm
+2024-04-27 23:15:32,985 - INFO - Video_path 2: /home/ngoccanh/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:15:32,999 - INFO - Downloading video successful
+2024-04-27 23:15:33,005 - INFO - Future <Future at 0x7ddd74f090f0 state=finished returned NoneType> completed with result: None
+2024-04-27 23:16:44,506 - INFO - Package: /home/ngoccanh
+2024-04-27 23:16:47,241 - INFO - Downloading thumbnail successful
+2024-04-27 23:16:55,580 - INFO - tmp_dir: /home/ngoccanh/Z1000 2700km/tmpfh2kicyt
+2024-04-27 23:16:55,695 - INFO - Downloading audio successful
+2024-04-27 23:17:04,275 - INFO - downloading (367966 total bytes) file to buffer
+2024-04-27 23:17:05,017 - INFO - audio_tmp /home/ngoccanh/Z1000 2700km/tmpfh2kicyt/tmp8qj5mpbm.mp3
+2024-04-27 23:17:05,017 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-27 23:17:07,985 - INFO - Video path 1: /home/ngoccanh/Z1000 2700km/tmpfh2kicyt/video_720p_Z1000 2700km.webm
+2024-04-27 23:17:08,060 - INFO - Video_path 2: /home/ngoccanh/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:17:08,077 - INFO - Downloading video successful
+2024-04-27 23:17:08,078 - INFO - Future <Future at 0x7ddd74f09510 state=finished returned NoneType> completed with result: None
+2024-04-27 23:17:35,204 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-27 23:17:36,778 - INFO - Downloading thumbnail successful
+2024-04-27 23:17:43,113 - INFO - tmp_dir: /home/ngoccanh/Downloads/Z1000 2700km/tmpp5kkl6vn
+2024-04-27 23:17:46,098 - INFO - Downloading audio successful
+2024-04-27 23:17:59,836 - INFO - downloading (367966 total bytes) file to buffer
+2024-04-27 23:18:01,080 - INFO - audio_tmp /home/ngoccanh/Downloads/Z1000 2700km/tmpp5kkl6vn/tmpturwwylu.mp3
+2024-04-27 23:18:01,080 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-27 23:18:04,381 - INFO - Video path 1: /home/ngoccanh/Downloads/Z1000 2700km/tmpp5kkl6vn/video_720p_Z1000 2700km.webm
+2024-04-27 23:18:04,426 - INFO - Video_path 2: /home/ngoccanh/Downloads/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:18:04,452 - INFO - Downloading video successful
+2024-04-27 23:18:04,454 - INFO - Future <Future at 0x7ddd74f0bfd0 state=finished returned NoneType> completed with result: None
+2024-04-27 23:32:59,290 - INFO - Folder: /home/ngoccanh/Downloads/video_720p_Z1000 2700km
+2024-04-27 23:32:59,692 - INFO - Input file: /home/ngoccanh/Downloads/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:32:59,692 - INFO - Output file: /home/ngoccanh/Downloads/video_720p_Z1000 2700km/video_720p_Z1000 2700km.avi
+2024-04-27 23:33:51,156 - INFO - /home/ngoccanh/Downloads/Z1000 2700km/video_720p_Z1000 2700km.webm successfully
+2024-04-27 23:36:11,300 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-27 23:36:12,857 - INFO - Downloading thumbnail successful
+2024-04-27 23:36:16,568 - INFO - Downloading audio successful
+2024-04-27 23:36:16,628 - INFO - tmp_dir: /home/ngoccanh/Downloads/Z1000 2700km/tmp2dwj19d1
+2024-04-27 23:36:18,993 - INFO - downloading (367966 total bytes) file to buffer
+2024-04-27 23:36:19,339 - INFO - audio_tmp /home/ngoccanh/Downloads/Z1000 2700km/tmp2dwj19d1/tmpyq7vrbjp.mp3
+2024-04-27 23:36:19,340 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-27 23:36:22,471 - INFO - Video path 1: /home/ngoccanh/Downloads/Z1000 2700km/tmp2dwj19d1/video_720p_Z1000 2700km.webm
+2024-04-27 23:36:22,577 - INFO - Video_path 2: /home/ngoccanh/Downloads/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:36:22,594 - INFO - Downloading video successful
+2024-04-27 23:36:22,600 - INFO - Future <Future at 0x73009a894c10 state=finished returned NoneType> completed with result: None
+2024-04-27 23:36:25,749 - ERROR - Error: 'DownloadFrame' object has no attribute 'clear_inputs'
+2024-04-27 23:40:39,203 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-27 23:40:40,072 - INFO - Downloading thumbnail successful
+2024-04-27 23:40:42,607 - INFO - Downloading audio successful
+2024-04-27 23:40:44,263 - INFO - tmp_dir: /home/ngoccanh/Downloads/Z1000 2700km/tmp7hy4ycnb
+2024-04-27 23:40:48,540 - INFO - downloading (367966 total bytes) file to buffer
+2024-04-27 23:40:48,907 - INFO - audio_tmp /home/ngoccanh/Downloads/Z1000 2700km/tmp7hy4ycnb/tmpmu651muu.mp3
+2024-04-27 23:40:48,908 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-27 23:40:52,446 - INFO - Video path 1: /home/ngoccanh/Downloads/Z1000 2700km/tmp7hy4ycnb/video_720p_Z1000 2700km.webm
+2024-04-27 23:40:52,505 - INFO - Video_path 2: /home/ngoccanh/Downloads/Z1000 2700km/video_720p_Z1000 2700km.webm
+2024-04-27 23:40:52,524 - INFO - Downloading video successful
+2024-04-27 23:40:52,525 - INFO - Future <Future at 0x70c3a1a9ccd0 state=finished returned NoneType> completed with result: None
+2024-04-28 00:22:14,737 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-28 00:22:17,481 - INFO - Downloading thumbnail successful
+2024-04-28 00:22:18,432 - ERROR - Error downloading video ao-3DGtJbc8 is age restricted, and can't be accessed without logging in.
+2024-04-28 00:22:18,540 - INFO - Future <Future at 0x764be0540970 state=finished returned NoneType> completed with result: None
+2024-04-28 00:22:55,509 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-28 00:22:56,531 - INFO - Downloading thumbnail successful
+2024-04-28 00:22:57,680 - ERROR - Error downloading video ao-3DGtJbc8 is age restricted, and can't be accessed without logging in.
+2024-04-28 00:22:57,681 - INFO - Future <Future at 0x764be05410c0 state=finished returned NoneType> completed with result: None
+2024-04-28 00:24:33,508 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-28 00:24:34,702 - INFO - Downloading thumbnail successful
+2024-04-28 00:24:37,146 - INFO - tmp_dir: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmpg_j7_fj3
+2024-04-28 00:24:39,832 - INFO - Downloading audio successful
+2024-04-28 00:24:40,542 - INFO - downloading (193897 total bytes) file to buffer
+2024-04-28 00:24:40,693 - INFO - audio_tmp /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmpg_j7_fj3/tmpdmfw70h_.mp3
+2024-04-28 00:24:40,694 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-28 00:24:42,906 - INFO - Video path 1: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmpg_j7_fj3/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 00:24:42,927 - INFO - Video_path 2: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 00:24:42,940 - INFO - Downloading video successful
+2024-04-28 00:24:42,944 - INFO - Future <Future at 0x764be0542d70 state=finished returned NoneType> completed with result: None
+2024-04-28 00:25:37,709 - INFO - Folder: /home/ngoccanh/Downloads
+2024-04-28 00:25:37,856 - INFO - Input file: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 00:25:37,856 - INFO - Output file: /home/ngoccanh/Downloads/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.avi
+2024-04-28 00:26:32,217 - INFO - /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm successfully
+2024-04-28 00:29:34,284 - INFO - Folder: /home/ngoccanh/Downloads
+2024-04-28 00:29:34,462 - INFO - Input file: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/audio_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 00:29:34,462 - INFO - Output file: /home/ngoccanh/Downloads/audio_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.avi
+2024-04-28 00:29:40,400 - INFO - /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/audio_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm successfully
+2024-04-28 00:30:45,675 - INFO - Folder: /home/ngoccanh/Downloads
+2024-04-28 00:30:45,952 - INFO - Input file: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 00:30:45,952 - INFO - Output file: /home/ngoccanh/Downloads/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.avi
+2024-04-28 00:31:36,899 - INFO - /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm successfully
+2024-04-28 01:45:17,139 - INFO - Package: /home/ngoccanh/Downloads
+2024-04-28 01:45:18,870 - INFO - Downloading thumbnail successful
+2024-04-28 01:45:19,251 - INFO - Downloading thumbnail successful
+2024-04-28 01:45:24,160 - INFO - tmp_dir: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmp4hln95aa
+2024-04-28 01:45:27,042 - INFO - Downloading audio successful
+2024-04-28 01:45:29,342 - INFO - tmp_dir: /home/ngoccanh/Downloads/ĐI BỘ BÚ WIN 'P #killerqueen #lol #shorts/tmpupsso_we
+2024-04-28 01:45:29,614 - INFO - downloading (193897 total bytes) file to buffer
+2024-04-28 01:45:29,820 - INFO - Downloading audio successful
+2024-04-28 01:45:30,289 - INFO - audio_tmp /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmp4hln95aa/tmpuig9c8n4.mp3
+2024-04-28 01:45:30,290 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-28 01:45:31,802 - INFO - downloading (231668 total bytes) file to buffer
+2024-04-28 01:45:31,941 - INFO - audio_tmp /home/ngoccanh/Downloads/ĐI BỘ BÚ WIN 'P #killerqueen #lol #shorts/tmpupsso_we/tmpitbsu59s.mp3
+2024-04-28 01:45:31,949 - INFO - FFMPEG path: /usr/bin/ffmpeg
+2024-04-28 01:45:32,843 - INFO - Video path 1: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/tmp4hln95aa/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 01:45:32,901 - INFO - Video_path 2: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 01:45:32,937 - INFO - Downloading video successful
+2024-04-28 01:45:32,948 - INFO - Future <Future at 0x7ea8f57e8940 state=finished returned NoneType> completed with result: None
+2024-04-28 01:45:34,716 - INFO - Video path 1: /home/ngoccanh/Downloads/ĐI BỘ BÚ WIN 'P #killerqueen #lol #shorts/tmpupsso_we/video_720p_ĐI BỘ BÚ WIN P killerqueen lol shorts.webm
+2024-04-28 01:45:34,731 - INFO - Video_path 2: /home/ngoccanh/Downloads/ĐI BỘ BÚ WIN 'P #killerqueen #lol #shorts/video_720p_ĐI BỘ BÚ WIN P killerqueen lol shorts.webm
+2024-04-28 01:45:34,738 - INFO - Downloading video successful
+2024-04-28 01:45:34,743 - INFO - Future <Future at 0x7ea8f57eb730 state=finished returned NoneType> completed with result: None
+2024-04-28 01:49:29,581 - INFO - Folder: /home/ngoccanh/Downloads
+2024-04-28 01:49:29,877 - INFO - Input file: /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm
+2024-04-28 01:49:29,879 - INFO - Output file: /home/ngoccanh/Downloads/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.mp4
+2024-04-28 01:50:46,614 - INFO - /home/ngoccanh/Downloads/VALORANT ' BOM TẤN FPS CHO GAME THỦ THỰC THỤ/video_1080p_VALORANT  BOM TẤN FPS CHO GAME THỦ THỰC THỤ.webm successfully

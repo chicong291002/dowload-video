@@ -8,12 +8,10 @@ def convert_to_format(input_file, output_path, format):
     
     logging.info(f'Input file: {input_file}')
     logging.info(f'Output file: {output_file}')
-    
-    executable_path = os.path.abspath(__file__)
-    executable_dir = os.path.dirname(executable_path)
-    ffmpeg_path = os.path.join(executable_dir, "ffmpeg", "bin", "ffmpeg.exe")
+
+    ffmpeg_path = os.path.join("/usr","bin", "ffmpeg")
     command = [ffmpeg_path, '-i', input_file, '-c:v', 'copy', '-c:a', 'copy','-preset', 'ultrafast', '-y', output_file]
-    if format == 'avi' or format == 'mkv' or format == 'mov' or format == 'flv':
+    if format == 'avi' or format == 'mkv' or format == 'mov' or format == 'flv' or format =='mp4':
         command[4] = 'h264'
         command[6] = 'aac'
     elif format == 'wmv':

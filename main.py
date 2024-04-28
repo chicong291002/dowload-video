@@ -5,14 +5,16 @@ import re
 import shutil
 import threading
 from tkinter import filedialog, messagebox
-import customtkinter
+import customtkinter # type: ignore
 
 from format_conversion import convert_to_format
 from format_conversion_gui import ConversionFrame
-from video_download import (download_audio, download_description,
-                            download_subtitles, download_thumbnail,
+from video_download import (download_audio, download_thumbnail,
                             download_video, get_youtube_streams)
 from video_download_gui import DownloadFrame, ProcessingDialog
+
+customtkinter.set_appearance_mode('light')
+customtkinter.set_default_color_theme('blue')   
 
 INVALID_CHARS_REGEX = re.compile(r'[\\\/:\*\?"<>|]')
 
@@ -26,52 +28,26 @@ logging.basicConfig(
 class MyTabView(customtkinter.CTkTabview):
     def __init__(self, master, **kwargs):
         super().__init__(master, **kwargs)
-
-        # create tabs
+        
         self.add("Download")
-        self.add("Format conversion")
-
-        self.download_frame = DownloadFrame(master=self.tab(
-            'Download'), corner_radius=0, fg_color="transparent")
+        self.add("Format video")
+        
+        self.download_frame = DownloadFrame(master=self.tab('Download'), fg_color="orange")
         self.download_frame.pack(fill='both', expand=True)
-
-        self.conversion_frame = ConversionFrame(master=self.tab(
-            'Format conversion'), corner_radius=0, fg_color="transparent")
-        self.conversion_frame.pack(fill='both', expand=True)
+        self.format_frame = ConversionFrame(master=self.tab('Format video'), fg_color="orange")
+        self.format_frame.pack(fill='both', expand=True)
 
 
 class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
-        self.geometry("700x500") 
-        self.title("Video Downloader Basic")
-        #self.minsize(400, 200)
-
-        self.update()  # Cập nhật cửa sổ để xác định kích thước
-
-        # Lấy kích thước màn hình
-        screen_width = self.winfo_screenwidth()
-        screen_height = self.winfo_screenheight()
-
-        # Tính toán vị trí mới cho cửa sổ
-        x = (screen_width - self.winfo_width()) // 2
-        y = (screen_height - self.winfo_height()) // 2
-
-        # Đặt vị trí mới cho cửa sổ
-        self.geometry(f"+{x}+{y}")
-        
-        def on_closing():
-            self.destroy()
-            os._exit(0)
-        self.protocol("WM_DELETE_WINDOW", on_closing)
-
+        self.geometry("700x450")
+        self.title("Download Youtube Videos")
+    
         self.tab_view = MyTabView(master=self)
-        self.tab_view.pack(padx=20, pady=(5, 20), fill="both", expand=True)
-        self.tab_view.download_frame.download_button.configure(
-            command=lambda: self.start_video_download(self.download_video_collection, self.tab_view.download_frame))
-
-        self.tab_view.conversion_frame.download_button.configure(
-            command=lambda: self.start_conversion(self.tab_view.conversion_frame))
+        self.tab_view.pack(padx=20, fill="both", expand=True)
+        self.tab_view.download_frame.download_button.configure(command=lambda: self.start_video_download(self.download_video_collection, self.tab_view.download_frame))
+        self.tab_view.format_frame.download_button.configure(command=lambda: self.start_conversion(self.tab_view.format_frame))
 
         self.flag_urls = []
 
@@ -84,26 +60,18 @@ class App(customtkinter.CTk):
             messagebox.showwarning('Warning', 'Please input a url')
             return
         urls = [i for i in unique_links]
-        package_name = source.entry.get()
-        if not package_name:
-            messagebox.showwarning('Warning', 'Please input a package name')
-            return
-        package_name = re.sub(INVALID_CHARS_REGEX, "'", package_name)
         try:
             # Hiển thị cửa sổ cho người dùng chọn nơi lưu
             dir_path = filedialog.askdirectory()
             if dir_path:
                 os.chmod(dir_path, 0o777)
-                package_path = os.path.join(dir_path, package_name)
-                if not os.path.exists(package_path):
-                    os.makedirs(package_path)
-                logging.info(f'Package: {package_path}')
+                logging.info(f'Package: {dir_path}')
                 t = threading.Thread(
-                    target=download_package_func, args=(package_path, urls,))
+                    target=download_package_func, args=(dir_path, urls,))
                 t.start()
         except Exception as e:
             messagebox.showerror(
-                'Error', f'Invalid path or inaccessible path\n {str(e)}')
+                'Error', f'Invalid path or inaccessible path\n {str(e)}')                                                                                                           
 
     def download_video_collection(self, package_path, urls):
         try:
@@ -183,6 +151,8 @@ class App(customtkinter.CTk):
 
         messagebox.showinfo('Announcement', message)
         self.flag_urls = []
+        # Clear the inputs
+        self.tab_view.download_frame.clear_inputs()
 
     def display_download_progress(self, index, youtube, youtube_folder, dir_folder):
         if not os.path.exists(dir_folder):
@@ -190,19 +160,11 @@ class App(customtkinter.CTk):
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             futures = []
-            futures.append(executor.submit(
-                download_video, youtube, dir_folder))
+            futures.append(executor.submit(download_video, youtube, dir_folder))
             if self.tab_view.download_frame.additional_options.audio_check.get() == 1:
-                futures.append(executor.submit(
-                    download_audio, youtube, dir_folder))
+                futures.append(executor.submit(download_audio, youtube, dir_folder))
             if self.tab_view.download_frame.additional_options.thumbnail_check.get() == 1:
-                futures.append(executor.submit(
-                    download_thumbnail, youtube, youtube_folder, dir_folder))
-            if self.tab_view.download_frame.additional_options.description_check.get() == 1:
-                futures.append(executor.submit(
-                    download_description, youtube, youtube_folder, dir_folder))
-            if self.tab_view.download_frame.additional_options.subtitles_check.get() == 1:
-                futures.append(executor.submit(download_subtitles, youtube, dir_folder))
+                futures.append(executor.submit(download_thumbnail, youtube, youtube_folder, dir_folder))
 
             concurrent.futures.wait(futures)
 
@@ -218,20 +180,14 @@ class App(customtkinter.CTk):
         if not input_file:
             messagebox.showwarning('Warning', 'Please input a video path')
             return
-        folder_name = source.entry_folder_name.get()
-        if not folder_name:
-            messagebox.showwarning('Warning', 'Please input a folder name')
-            return
-        folder_name = re.sub(INVALID_CHARS_REGEX, "'", folder_name)
         format_selection = source.combobox_format.get()
         try:
             # Hiển thị cửa sổ cho người dùng chọn nơi lưu
             dir_path = filedialog.askdirectory()
             if dir_path:
                 os.chmod(dir_path, 0o777)
-                output_path = os.path.join(dir_path, folder_name)
-                if not os.path.exists(output_path):
-                    os.makedirs(output_path)
+                # Directly use the chosen directory as the output path
+                output_path = dir_path
                 logging.info(f'Folder: {output_path}')
                 t = threading.Thread(target=self.converting, args=(
                     input_file, output_path, format_selection))
@@ -248,15 +204,12 @@ class App(customtkinter.CTk):
                 index=0, title=os.path.basename(input_file))
             processing.start_progressbar(index=0)
             
-            futures.append(executor.submit(
-                convert_to_format, input_file, output_path, format_selection.lower()))
+            futures.append(executor.submit(convert_to_format, input_file, output_path, format_selection.lower()))
             concurrent.futures.wait(futures)
             processing.stop_progressbar(0)
             processing.destroy()
             messagebox.showinfo('Announcement', "Successfully")
             logging.info(f'{input_file} successfully')
-
-
-# Khởi tạo ứng dụng GUI
+            self.tab_view.format_frame.clear_inputs()
 app = App()
 app.mainloop()
