@@ -3,7 +3,7 @@
 - This article will introduce popular methods and tools to download YouTube videos effectively.
 - In an increasingly digital world, accessing and sharing online video content from platforms like YouTube has become an indispensable part of our daily lives.
 - However, sometimes we want to store videos from YouTube to our devices or convert them to other formats to suit different needs.
-- link instruction setting and using dowload youtube video is : https://chicong291002.github.io/Web-Blog-Statics/
+- Introduce the topic to Website : https://chicong291002.github.io/Web-Blog-Statics/
   
 # Benefit
 - Watch videos offline
